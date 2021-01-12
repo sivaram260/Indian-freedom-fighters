@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&family=Yeon+Sung&display=swap');
+body{
+    font-family: 'Josefin Sans', sans-serif;
+font-family: 'Yeon Sung', cursive;
+text-align: center;
+}
+nav{
+    display: flex;
+    justify-content: center;
+    
+    }
+    a{
+    margin: 20px;
+    cursor: pointer;
+    text-decoration: none;
+    color: black;
+    }
+    header{
+    background-image: url("https://yashchheda.files.wordpress.com/2015/01/indianflag.jpg");
+    background-repeat: no-repeat;
+    color: black;
+    background-size: cover;
+    padding: 200px;
+    }
+    h1{
+    font-size: 6em;
+    letter-spacing: 10px;
+      color:white;
+    }
+    h2{
+    font-size: 4em;
+      color:white;
+    }
+    h3{
+    font-size: 2em;
+    }
+    h4{
+    font-size: 2em;
+      color:white;
+    }
+    #sp{
+        font-size: 2em;
+          color:black;
+        }
+        #ps{
+            font-size: 2em;
+              color:black;
+            }
+    img{
+        width: 500px;
+    }
+    section p, img{
+        padding: 10px;
+        }
+        .india{
+        color: black;
+        padding: 70px;
+        }
+        #Mahatmagandhi{
+            background-color: lightsalmon;
+            }
+        #Jhansirani{
+            background-color: lightpink;
+            }
+        #Bhagatsingh{
+            background-color: lightskyblue;
+            }
+        #VeerapandiyaKattabomman{
+            background-color: lightcoral;
+            }
+            #ChidambaramPillai{
+                background-color: lightseagreen;
+                }
+                #Ambedkar{
+                    background-color: lightgray;
+                    }
+                    #JawaharLalNehru{
+                        background-color: lightsteelblue;
+                        }
+                        sup{
+                            color: red;
+                        }
